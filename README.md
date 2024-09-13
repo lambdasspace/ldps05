@@ -50,4 +50,4 @@
 
    (a) Definir la función *<* que decide si un número es menor a otro.   
    (b) Definir la función *↔* (bicondicional) sobre booleanos.   
-   (c) Definir la función disunción exclusiva *or* sobre booleanos.
+   (c) Definir la función disunción exclusiva *xor* sobre booleanos.
